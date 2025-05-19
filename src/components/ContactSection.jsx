@@ -53,7 +53,7 @@ export const ContactSection = () => {
                 <div>
                   <h4 className="font-medium flex items-start">Location</h4>
                   <a className="text-muted-foreground hover:text-primary transition-colors">
-                    Atlanta, Georgia, United States
+                    Atlanta, Georgia
                   </a>
                 </div>
               </div>
