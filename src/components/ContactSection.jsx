@@ -10,8 +10,8 @@ export const ContactSection = () => {
         </h2>
 
         <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
-          Have a project in mind or want to collaborate? Feel free to reach out.
-          I'm always open to discussing new opportunities.
+          Currently seeking full-stack developer roles. I'm always open to
+          discussing new opportunities so feel free to reach out.
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
