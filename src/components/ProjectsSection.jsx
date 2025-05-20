@@ -34,7 +34,7 @@ const projects = [
     title: "ReadShelf",
     description:
       "ReadShelf is a web application designed to help users track and manage a personal list of books they have read. Built with Node.js, Express.js, EJS, and a PostgreSQL database, ReadShelf integrates the Open Library Covers API to fetch and display book cover images based on user-provided book titles. The application supports full CRUD operations for book entries, enabling users to add new books, view their reading list, edit book details, and remove books.",
-    image: "/projects/project4.jpg",
+    image: "/projects/project5.jpg",
     tags: ["Node.js", "Express.js", "EJS", "PostgreSQL", "Bootstrap"],
     demoUrl: "#",
     githubUrl: "",
@@ -44,7 +44,7 @@ const projects = [
     title: "CoinFlux",
     description:
       "CoinFlux is a web application that delivers real-time cryptocurrency price updates powered by the Blockchain.com Exchange API. Built with Node.js and Express.js for a robust server-side foundation, it leverages EJS templating to dynamically render live market data directly to your browser.",
-    image: "/projects/project5.jpg",
+    image: "/projects/project4.jpg",
     tags: ["Node.js", "Express.js", "EJS", "Bootstrap"],
     demoUrl: "#",
     githubUrl: "",
