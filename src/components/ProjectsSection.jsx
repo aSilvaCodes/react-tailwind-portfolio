@@ -20,11 +20,12 @@ const projects = [
     demoUrl: "#",
     githubUrl: "",
   },
+  //Add Portfolio Website
   {
     id: 3,
-    title: "ship-test",
+    title: "Personal Portfolio Website",
     description: "Just a ship-test",
-    image: "/projects/project3.jpg",
+    image: "/projects/project3.png",
     tags: ["Node.js"],
     demoUrl: "#",
     githubUrl: "",
